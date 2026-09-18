@@ -15,7 +15,7 @@
 | | |
 |---|---|
 | **Role** | Full-Stack Developer |
-| **Experience** | 3+ Years |
+| **Experience** | 1.5+ Years |
 | **Stack** | MERN (MongoDB, Express, React, Node.js) |
 | **Status** | 🟢 Open for Work / Internship / Freelance |
 ---
