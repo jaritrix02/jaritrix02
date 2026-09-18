@@ -1,10 +1,10 @@
-# 👋 Gaurav Kumar | Full-Stack Developer
+# 👋 GAURAV KUMAR | Full-Stack Developer
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-20740w)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white)](https://jaritrix02.github.io/Portfolio/)
-[![GitHub](https://img.shields.io/badge/Open%20for%20Work-00FF00?style=for-the-badge)](https://github.com/jaritrix02)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFfffff?style=for-the-badge&logo=globe&logoColor=white)](https://jaritrix02.github.io/Portfolio/)
+[![Open For Work](https://img.shields.io/badge/Open%20For%20Work-FFFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jaritrix02)
 
 </div>
 
@@ -56,48 +56,43 @@
 
 ---
 
-## 📈 Activity Overview
+## 🔥 Contribution Streak
 
-```
-Commits    ████████████░░░░░░░░  45%
-Code Review██████░░░░░░░░░░░░░░  12%
-Issues     █████████░░░░░░░░░░░░ 20%
-Pull Requests████████░░░░░░░░░░░░ 23%
-```
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaritrix02&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=58a6ff&sideNums=c9d1d9&sideLabels=58a6ff&dates=c9d1d9)
 
 ---
 
-## 🎯 Key Achievements
+## 📊 Activity Overview
 
-✅ **Secure Authentication** - JWT & OAuth implementations  
-✅ **RESTful APIs** - Scalable backend architecture  
-✅ **Database Design** - MongoDB optimization  
-✅ **Responsive UI** - Mobile-first approach  
-✅ **Production Ready** - Clean, maintainable code  
+```
+Commits       ████████████░░░░░░░░  45%
+Code Review   ██████░░░░░░░░░░░░░░  12%
+Issues        █████████░░░░░░░░░░░░ 20%
+Pull Requests ████████░░░░░░░░░░░░░ 23%
+```
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🌐 [Portfolio Website](https://github.com/jaritrix02/Portfolio)
-Full-stack MERN application with authentication and project showcase
-- Secure auth system • RESTful API • Responsive design
+**Full-stack MERN application with authentication and project showcase**
+- ✨ Secure auth system
+- 🔌 RESTful API architecture
+- 📱 Responsive design
+- 🎨 Modern UI/UX
 
 ### 🎮 [Rock Paper Scissor Game](https://github.com/jaritrix02/GAME)
-Interactive game with smooth gameplay and responsive UI
-- Vanilla JS • Clean UX • Fast performance
-
----
-
+**Interactive game with smooth gameplay and responsive UI**
+- 🎯 Vanilla JS implementation
+- ✨ Clean UX
+- ⚡ Fast performance
+- 📱 Mobile-friendly
 ## 💼 Let's Connect
-
+ 
 **Available for:** Full-time • Internships • Freelance Projects  
 **Contact:** [LinkedIn](https://www.linkedin.com/in/gaurav-kumar-20740w) | [Portfolio](https://jaritrix02.github.io/Portfolio/)
-
+ 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=jaritrix02&color=blue&style=flat)
-
 **Thanks for visiting! ⭐ Feel free to reach out!**
-
 </div>
