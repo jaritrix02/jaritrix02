@@ -1,7 +1,7 @@
 # 👋 GAURAV KUMAR | Full-Stack Developer
 
 <div align="center">
-
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gaurav-kumar-20740w)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FFfffff?style=for-the-badge&logo=globe&logoColor=white)](https://jaritrix02.github.io/Portfolio/)
 [![Open For Work](https://img.shields.io/badge/Open%20For%20Work-FFFFFFF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/jaritrix02)
@@ -18,7 +18,6 @@
 | **Experience** | 3+ Years |
 | **Stack** | MERN (MongoDB, Express, React, Node.js) |
 | **Status** | 🟢 Open for Work / Internship / Freelance |
-
 ---
 
 ## 🛠️ Tech Stack
@@ -62,19 +61,7 @@
 
 ---
 
-## 📊 Activity Overview
-
-```
-Commits       ████████████░░░░░░░░  45%
-Code Review   ██████░░░░░░░░░░░░░░  12%
-Issues        █████████░░░░░░░░░░░░ 20%
-Pull Requests ████████░░░░░░░░░░░░░ 23%
-```
-
----
-
 ## 📌 Featured Projects
-
 ### 🌐 [Portfolio Website](https://github.com/jaritrix02/Portfolio)
 **Full-stack MERN application with authentication and project showcase**
 - ✨ Secure auth system
